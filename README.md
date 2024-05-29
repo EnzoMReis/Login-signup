@@ -1,6 +1,7 @@
 # Código de Log in e Sign up
 
 ###Que o Sistema Faz:
+
 ####é um sistema que registra contas utilizando o bcrypt e mysql para criptografar senhas, e lhe deixa logar utilizando só o email e a senha e traduz ela com hash.
 
 feito utilizando:
